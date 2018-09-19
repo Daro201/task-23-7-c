@@ -1,0 +1,9 @@
+.Note {
+  margin: 10px;
+  list-style-type: none;
+}
+
+.Note:active {
+  background: gray;
+  color: white;
+}
